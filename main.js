@@ -10,7 +10,7 @@ let products=[
   },
   {
     id: 2,
-    name: 'Stainless Rhadu black and goldk',
+    name: 'Stainless Rhadu black and goldk ',
     img: 'products-images/2.jpg',
     price: 250
   
